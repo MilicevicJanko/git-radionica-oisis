@@ -2,3 +2,6 @@ Ucim Git
 Dodali jos jedan red
 Ovo je posebna grana
 Status za pre
+Ovo je Posen grana
+Status dsad
+Status: novi i zavrseno
