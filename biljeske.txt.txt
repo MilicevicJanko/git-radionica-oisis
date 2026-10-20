@@ -1,3 +1,4 @@
 Ucim Git
 Dodali jos jedan red
 Ovo je posebna grana
+Status za pregled
